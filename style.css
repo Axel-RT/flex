@@ -11,14 +11,12 @@ header{
     flex-wrap: wrap;
     background-color: aquamarine;
 }
-
-.elemento-1{
-    align-self:center;
+nav{
+    display: flex;
+    justify-content: space-around;
 }
-.pblanco{
-    background-color: white;
-}
-.enlaces{
+.enlace{
+    
     flex-wrap: wrap;
     display: flex;
 }
